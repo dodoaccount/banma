@@ -1,2 +1,0 @@
-# banma
-freeStyle
